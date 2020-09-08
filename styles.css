@@ -1,0 +1,49 @@
+body {
+    background-color:#A22C29;
+    text-align: center
+}
+
+.sectionendred {
+    border-top: 1px dashed;
+    color: #fff;
+
+}
+.sectionendwhite {
+    border-top: 1px dashed;
+    color: #A22C29;
+
+}
+/* Header */
+
+#header {
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 7rem;
+    padding: 7% 15% 3%;
+}
+
+.links {
+    font-weight: 300;
+    padding: 10% 15% 10%;
+}
+
+.links i {
+    padding: 0% 2%;
+}
+
+
+.contrast-box {
+    background-color:#d6d5c9;
+}
+
