@@ -47,3 +47,17 @@ body {
     background-color:#d6d5c9;
 }
 
+.githubbutton {
+    background-color: #A22C29;
+    border: none;
+    width: 5rem;
+}
+
+.livesitebutton {
+    border: none;
+    width: 5rem;  
+}
+
+.techstack {
+    justify-content:left;
+}
