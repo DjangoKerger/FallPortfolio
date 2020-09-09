@@ -58,6 +58,23 @@ body {
     width: 5rem;  
 }
 
-.techstack {
-    justify-content:left;
+.youtubebutton {
+    background-color: #c0c1aa;
+    border: none;
+    width: 5rem;
 }
+
+/* GIF */
+.box:hover .zoom {
+    transform: scale(1.2);
+    z-index: +1;
+    
+}
+
+/* Footer */
+
+
+.social-icon{
+    margin: 20px 20px;
+    
+ }
